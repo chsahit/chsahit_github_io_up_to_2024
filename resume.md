@@ -3,7 +3,7 @@ layout: default
 title: About Sahit
 ---
 
-<div class="post">
+<!--<div class="post">
 	<h1 class="pageTitle">About Me!</h1>
 	<img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt=""> 
 	<p class="intro">Sahit Chintalapudi is a first year Computer Science major at Georgia Tech.</p>
@@ -13,4 +13,6 @@ title: About Sahit
         Georgia Tech's Machine Learning research club for undergraduates. I am also a developer for <a href="https://robojackets.org">Robojackets</a>
         and <a href="hack.gt">Hack GT</a>. My research is currently in Human-Robot Interaction at the <a href="humanslab.ece.gatech.edu">Human-Automation
         Systems Lab</a>. When I'm not coding away, I like to read, listen to music (Mostly lots of Taylor Swift), and play tennis. </p>
-</div>
+</div>-->
+
+<embed src="{{ '/assets/img/Resume0_public.pdf' | prepend: site.baseurl }}" width="600" height="800" alt="pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
