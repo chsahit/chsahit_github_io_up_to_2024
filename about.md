@@ -5,7 +5,7 @@ title: About Sahit
 
 <div class="post">
 	<h1 class="pageTitle">About Me!</h1>
-	<img src="{{ '/assets/img/me.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/me2.jpg' | prepend: site.baseurl }}" alt=""> 
 	<p class="intro">Sahit Chintalapudi is a first year Computer Science major at Georgia Tech.</p>
         <p> Hi There, I'm Sahit! I'm studying CS at Georgia Tech with concentrations in Artificial Intelligence and Theoretical Computer Science.
         I'm a big fan of robotics, math, and functional programming. I was born in Mount Olive, New Jersey, where I was lead developer for the
