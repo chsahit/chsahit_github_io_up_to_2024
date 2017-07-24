@@ -12,5 +12,5 @@ title: About Sahit
         <a href="https://mort11.org">Mount Olive Robotics Team</a>. I am Secretary of <a href="https://gtagency.github.io">The Agency</a>,
         Georgia Tech's Machine Learning research club for undergraduates. I am also a software lead on <a href="https://robojackets.org">Robojackets</a>
         and help out with <a href="https://hack.gt">Hack GT</a>. My research is in the Robot Learning Lab where I study path planning.
-        Systems Lab</a>. When I'm not coding away, I like to read, listen to music (Mostly lots of Taylor Swift), and play tennis. </p>
+        When I'm not coding away, I like to read, listen to music (Mostly lots of Taylor Swift), and play tennis. </p>
 </div>
