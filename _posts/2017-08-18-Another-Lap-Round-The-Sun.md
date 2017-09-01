@@ -5,8 +5,7 @@ date:   2017-08-18
 description: Talking about my internship and also I'm older now
 ---
 
-<!--TODO: insert links-->
-<p class="intro"><span class="dropcap">I</span>'m 19 now. Woah! I'm almost not a teenager anymore, this is kinda crazy! But not that crazy, as Randall Munroe wrote</p>
+<p class="intro"><span class="dropcap">I</span>'m 19 now. Woah! I'm almost not a teenager anymore, this is kinda crazy! But not that crazy, <a href="https://xkcd.com/1477">as Randall Munroe wrote</a></p>
 
 <blockquote>It's weird how I'm constantly surprised by the passage of time when it's literally the most predictable thing in the universe</blockquote>
 
@@ -20,6 +19,9 @@ I should say, working on both the RJ project or the agency were not where all of
 
 ### Reflecting on My Summer At ViaSat ###
 (They didn't ask me to write this)
-So the technical work I did at ViaSat isn't really worth a blog post, the culture on the other hand, was really cool. I felt that the attitude there was very YMMG. You decided how much to do, but once you made a commitment you were held to it. I feel like this hits the right balance from a leadership perspective. If you let your devs run free, a whole bunch of side efforts will be started but nothing will actually get done. If you have a SCRUM master tracking everyone down and adding artificial deadlines, quality of work goes down as stress goes up. It's nice to work in a big company where (in my own personal experience) the bureaucracy doesn't really inhibit you.
-The Duluth location general manager said at the beginning of the internship that what brings interns back wasn't the company itself so much as the other coworkers. What made me enjoy working with my bosses was they were ok with me making mistakes, so long as I recovered fast and tried a new approach. Typically, Engineers have a problem where they know a lot of stuff and in trying to share it they push people out of the way; this wasn't a problem with our bosses. They existed as a resource for questions we have. 
-One of the things I got out of ViaSat was learning that, Web Dev (Full Stack or not), is not for me. 
+So the technical work I did at ViaSat isn't really worth a blog post, the culture on the other hand, was really cool. I felt that the attitude there was very YMMG. You decided how much to do, but once you made a commitment you were held to it. I feel like this hits the right balance from a leadership perspective. If you let your devs run free, a whole bunch of side projects will be started but nothing will actually get done. If you have a SCRUM master tracking everyone down and adding artificial deadlines, quality of work goes down as stress goes up. It's nice to work in a big company where (in my own personal experience) the bureaucracy doesn't really inhibit you.
+The Duluth location general manager said at the beginning of the internship that what brings interns back wasn't the company itself so much as the other coworkers. What made me enjoy working with my bosses was they were OK with me making mistakes, so long as I recovered fast and tried a new approach. Typically, Engineers have a problem where they know a lot of stuff and in trying to share it they push people out of the way; this wasn't a problem with our bosses. They existed as a resource for questions we have. 
+
+One of the things I got out of ViaSat was learning that, Web Dev (Full Stack or not), is not for me. ViaSat in particular has avenues to pursue things that I might find more interesting, like a need for data scientists, but bottom line this summer is that I'll have to be a bit more picky with the job I take. Most of the companies I'm applying to for the upcoming summer have openings for people interested in ML or robotics. I'll also be applying for research positions when they open in a few months. 
+
+*Author's note: This post got mostly written on the 18th of August but I didn't have a chance to post it until today (9/1).* 
