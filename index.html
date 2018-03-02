@@ -1,26 +1,16 @@
 ---
 layout: default
-title: Sahit Chintalapudi
+title: About Sahit
 ---
 
-<div class="home" id="home">
-  <h1 class="pageTitle">Recent Posts</h1>
-  <ul class="posts noList">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="date">{{ post.date | date: '%B %d, %Y' }}</span>
-        <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-        <p class="description">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 250 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 250 }}{% endif %}</p>
-      </li>
-    {% endfor %}
-  </ul>
-  <!-- Pagination links -->
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Newer Posts</a> 
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Older Posts</a>
-    {% endif %}
-  </div>
+<div class="post">
+	<h1 class="pageTitle">About Me!</h1>
+	<img src="{{ '/assets/img/me2.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">Sahit Chintalapudi is a second year Computer Science major at Georgia Tech.</p>
+        <p> Hi There, I'm Sahit! I'm studying CS at Georgia Tech with concentrations in Artificial Intelligence and Theoretical Computer Science.
+        I'm a big fan of robotics, math, and functional programming. I was born in Mount Olive, New Jersey, where I was lead developer for the
+        <a href="https://mort11.org">Mount Olive Robotics Team</a>. I am Secretary of <a href="https://gtagency.github.io">The Agency</a>,
+        Georgia Tech's Machine Learning research club for undergraduates. I am also a software lead on <a href="https://robojackets.org">RoboJackets</a>
+        and help out with <a href="https://hack.gt">Hack GT</a>. My research is in the Robot Learning Lab where I study path planning.
+        When I'm not coding away, I like to read, listen to music (Mostly lots of Taylor Swift), and play tennis. </p>
 </div>
