@@ -3,7 +3,7 @@ description: A glimpse into my life
 
 url: http://chsahit.github.io
 baseurl: ""
-paginate_path: "blog/page:num/"
+paginate_path: "projects/page:num/"
 permalink: blog/:title/
 
 markdown: kramdown
@@ -17,7 +17,7 @@ navigation:
  - title: Resume
    url: /resume
  - title: Projects
-   url: /projects
+   url: /projects/
 
 social:
    github: chsahit
