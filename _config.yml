@@ -14,10 +14,10 @@ paginate: 5
 navigation:
  - title: About
    url: /index.html
- - title: Resume
-   url: /resume
  - title: Projects
    url: /projects/
+ - title: Resume
+   url: /resume
 
 social:
    github: chsahit
