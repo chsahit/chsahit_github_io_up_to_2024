@@ -16,6 +16,8 @@ navigation:
    url: /index.html
  - title: Projects
    url: /projects/
+ - title: Talks
+   url: /talks/index.html
 
 social:
    github: chsahit
