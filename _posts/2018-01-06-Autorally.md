@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[2018] Autorally"
-date: 2018-01-05 
+date: 2018-01-06 
 description: A Testbed for autonomous vehicles and machine learning research compatible with ROS
 ---
 

@@ -1,7 +1,7 @@
 ---
  layout: post
  title:  "[2017] Buzzmobile"
- date: 2018-01-04 
+ date: 2018-01-05 
  description: An Autonomous homecoming parade car run by the Artificial Intelligence Club at Georgia Tech
 ---
 
