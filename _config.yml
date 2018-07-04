@@ -16,8 +16,6 @@ navigation:
    url: /index.html
  - title: Projects
    url: /projects/
- - title: Resume
-   url: /resume
 
 social:
    github: chsahit
