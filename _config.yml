@@ -18,7 +18,10 @@ navigation:
    url: /projects/
  - title: Talks
    url: /talks/index.html
+ - title: Books
+   url: /books/
 
 social:
    github: chsahit
    email: schintalapudi@gatech.edu
+   twitter: therealsahit
