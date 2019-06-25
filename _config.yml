@@ -5,6 +5,7 @@ url: http://chsahit.github.io
 baseurl: ""
 paginate_path: "projects/page:num/"
 permalink: blog/:title/
+google_analytics: UA-142700083-1
 
 markdown: kramdown
 highlighter: rouge
@@ -24,4 +25,4 @@ navigation:
 social:
    github: chsahit
    email: schintalapudi@gatech.edu
-   twitter: therealsahit
+   twitter: DEFINE_ROSaHit
