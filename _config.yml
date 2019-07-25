@@ -19,10 +19,10 @@ navigation:
    url: /projects/
  - title: Talks
    url: /talks/index.html
- - title: Books
+ - title: Reading
    url: /books/
 
 social:
    github: chsahit
    email: schintalapudi@gatech.edu
-   twitter: DEFINE_ROSaHit
+   twitter: Sahitbot_iRL
