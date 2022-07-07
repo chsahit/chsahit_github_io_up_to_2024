@@ -15,8 +15,6 @@ paginate: 5
 navigation:
  - title: About
    url: /index.html
- - title: Reading
-   url: /books/
 
 social:
    github: chsahit
