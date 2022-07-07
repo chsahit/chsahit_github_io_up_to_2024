@@ -1,5 +1,5 @@
 title: Sahit Chintalapudi
-description: A third year computer science major at Georgia Tech who is passionate about robotics.
+description: I'm an MIT Graduate Student studying motion planning for robotics. 
 
 url: http://chsahit.github.io
 baseurl: ""
@@ -15,10 +15,6 @@ paginate: 5
 navigation:
  - title: About
    url: /index.html
- - title: Projects
-   url: /projects/
- - title: Talks
-   url: /talks/index.html
  - title: Reading
    url: /books/
 
